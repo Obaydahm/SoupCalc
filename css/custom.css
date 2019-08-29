@@ -1,0 +1,23 @@
+html, body{
+	height: 100%;
+	width: 100%;
+	background-color: #f1f1f1;
+}
+
+.row{
+		padding-top: 10px!important;
+		padding-bottom: 10px!important;
+}
+
+.box{
+	background-color: #FFF;
+	border: 1px solid #e1e1e1;
+	padding: 10px;
+	border-radius: 3px;
+}
+
+.alert{
+	padding: 5px 8px;
+	font-size: 14px;
+	font-weight: 500;
+}
